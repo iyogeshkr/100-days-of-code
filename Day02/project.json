@@ -1,7 +1,7 @@
 {
     "day": 2,
-    "topic": "",
-    "project_name": "",
-    "status": "Not started",
-    "summary": ""
+    "topic": "Data type and string manipulation",
+    "project_name": "Tip Calculator",
+    "status": "completed",
+    "summary": "Learnt about data types, type conversion, and string formatting"
 }
