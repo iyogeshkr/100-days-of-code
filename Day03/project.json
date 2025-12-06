@@ -1,7 +1,7 @@
 {
     "day": 3,
-    "topic": "",
-    "project_name": "",
-    "status": "Not started",
-    "summary": ""
+    "topic": "Control flow and logical operators",
+    "project_name": "Treasure Island",
+    "status": "completed",
+    "summary": "Learnt control flow, nesting and logical operators by creating a text-based adventure game."
 }
