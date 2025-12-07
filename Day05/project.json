@@ -1,7 +1,7 @@
 {
     "day": 5,
-    "topic": "",
-    "project_name": "",
-    "status": "Not started",
-    "summary": ""
+    "topic": "Python Loops",
+    "project_name": "Password Generator",
+    "status": "Completed",
+    "summary": "Learnt about loops in Python by creating a password generator that creates random passwords based on user-defined criteria."
 }
